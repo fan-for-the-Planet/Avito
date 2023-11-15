@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="telebot" />
+          <option value="commands" />
+          <option value="customtkinter" />
+          <option value="AvitoParser.notifiers" />
+          <option value="AvitoParser.parser_cls" />
+          <option value="AvitoParser.loguru" />
+          <option value="locator.selenium" />
+          <option value="parser_cls.seleniumbase" />
+          <option value="parser_cls.notifiers" />
+          <option value="parser_cls.loguru" />
+          <option value="seleniumbase" />
+          <option value="AvitoParser.NotificationHandler" />
+          <option value="loguru.loguru" />
+          <option value="loguru.loguru.success" />
+          <option value="venv.logger" />
+          <option value="loguru.loguru.info" />
+          <option value="loguru.loguru.add" />
+          <option value="notifiers.NotificationHandler" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
